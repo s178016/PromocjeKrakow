@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Promocje Krakow</string>
+    <string name="cena">Cena</string>
+    <string name="localizacja">localizacja</string>
+    <string name="cena2">Cena2</string>
+    <string name="desc">DEsc</string>
+    <string name="desc1">Desc1</string>
+    <string name="od_wie">Odśwież</string>
+</resources>
